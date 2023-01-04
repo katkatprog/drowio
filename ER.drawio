@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T10:13:40.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="e3rbJ7XyKTvVyo2hFJWo" version="20.8.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-04T14:56:51.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HfPR-01hxtYk7tXNimXE" version="20.8.0" type="github" pages="9">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CvGr4kSlmCIAaf5xYNdX" name="ER図(論理図)">
-    <mxGraphModel dx="2261" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -925,7 +925,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="画面設計(レイアウト)" id="7DfDjhgWd_DS-R2thH9t">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="L6Z4gfrI-twZcbD0LuMd-0" />
         <mxCell id="L6Z4gfrI-twZcbD0LuMd-1" parent="L6Z4gfrI-twZcbD0LuMd-0" />
@@ -1376,8 +1376,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="画面設計(サイクル詳細)のコピー" id="OOG7yEfxiho85X_rkvV4">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="画面設計(P, D)" id="OOG7yEfxiho85X_rkvV4">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uNV36PC9lbGY7RQiHcae-0" />
         <mxCell id="uNV36PC9lbGY7RQiHcae-1" parent="uNV36PC9lbGY7RQiHcae-0" />
@@ -1655,8 +1655,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="画面設計(サイクル詳細)のコピーのコピー" id="ODCWWW1g9TXE16FdZvXe">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="画面設計(C, A)" id="ODCWWW1g9TXE16FdZvXe">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="luYdQt1FfOaZPL__g2SP-0" />
         <mxCell id="luYdQt1FfOaZPL__g2SP-1" parent="luYdQt1FfOaZPL__g2SP-0" />
